@@ -20,7 +20,7 @@ typescript-estudos/
 │   │   └── exercicios/
 │   │       ├── ex1-tipagem.ts
 │   │       └── ex2-inferencia.ts
-│   ├── modulo5/
+│   ├── modulo3/
 │   │   ├── index.ts
 │   │   └── exercicios/
 │   │       └── ex1-arrays.ts
