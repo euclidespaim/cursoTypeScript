@@ -10,14 +10,27 @@ Este projeto faz parte de um curso completo de TypeScript, voltado para quem já
 typescript-estudos/
 ├── src/
 │   ├── modulo1/
+│   │   ├── index.ts
+│   │   ├── exemplos/
+│   │   └── exercicios/
+│   │       ├── ex1-introducao.ts
+│   │       └── ex2-primeiro-tipo.ts
 │   ├── modulo2/
-│   ├── modulo3/
-│   └── modulo4/
+│   │   ├── index.ts
+│   │   └── exercicios/
+│   │       ├── ex1-tipagem.ts
+│   │       └── ex2-inferencia.ts
+│   ├── modulo5/
+│   │   ├── index.ts
+│   │   └── exercicios/
+│   │       └── ex1-arrays.ts
+│   └── index.ts            # ponto de entrada geral
 ├── dist/
 ├── package.json
 ├── tsconfig.json
 ├── .gitignore
 └── README.md
+
 ```
 
 Cada módulo contém exercícios práticos e exemplos baseados nos tópicos estudados, incluindo:
